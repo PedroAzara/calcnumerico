@@ -48,3 +48,7 @@ function plot_newton(X, Y)
     // Usa a função plot para plotar os pontos armazenados nos vetores x_plot e y_plot em um gráfico.
     plot(x_plot, y_plot); // plota os pontos
 endfunction
+
+
+// O vetor X será X = [52.11 56.19 60.26 64.30 68.33 72.33 76.33 80.31 84.27 88.22 92.16 96.09 100.00 103.90 107.79 111.67 115.54 119.40 123.24 127.08 130.90 134.71 138.51 142.29 146.07]
+// O vetor Y será Y = [-120.00 -110.00 -100.00 -90.00 -80.00 -70.00 -60.00 -50.00 -40.00 -30.00 -20.00 -10.00 0.00 10.00 20.00 30.00 40.00 50.00 60.00 70.00 80.00 90.00 100.00 110.00 120.00]
